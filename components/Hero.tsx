@@ -16,7 +16,7 @@ export const Hero: React.FC = () => {
           🐣 Qualidade que você sente no prato
         </div>
         <h1 className="font-display text-4xl md:text-6xl font-bold text-farm-brown mb-4 leading-tight drop-shadow-sm">
-          Ovos Frescos da Granja <br />
+          Ovos da Granja do Renato <br />
           <span className="text-farm-darkGreen">Direto para sua Mesa!</span>
         </h1>
         <p className="text-xl md:text-2xl text-stone-700 font-medium max-w-2xl mx-auto">

@@ -7,7 +7,7 @@ export const Footer: React.FC = () => {
       <div className="max-w-4xl mx-auto grid md:grid-cols-3 gap-8 text-center md:text-left">
         
         <div>
-          <h3 className="font-display text-2xl font-bold mb-4 text-yellow-400">Granja do Fernando</h3>
+          <h3 className="font-display text-2xl font-bold mb-4 text-yellow-400">Granja do Renato</h3>
           <p className="text-stone-300 text-sm">
             Produzindo ovos de qualidade com respeito à natureza e aos animais. Da nossa família para a sua.
           </p>
@@ -39,7 +39,7 @@ export const Footer: React.FC = () => {
       </div>
       
       <div className="border-t border-stone-700 mt-10 pt-6 text-center text-stone-500 text-sm">
-        © {new Date().getFullYear()} Granja do Fernando. Todos os direitos reservados.
+        © {new Date().getFullYear()} Granja do Renato. Todos os direitos reservados.
       </div>
     </footer>
   );

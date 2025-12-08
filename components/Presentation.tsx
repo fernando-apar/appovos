@@ -22,7 +22,7 @@ export const Presentation: React.FC = () => {
             O Segredo do Verdadeiro Sabor do Campo
           </h2>
           <p className="text-lg text-stone-600 leading-relaxed">
-            Aqui na Granja do Fernando, tratamos nossas galinhas como família. Elas vivem soltas, comem bem e, em troca, nos dão os ovos mais saborosos da região. Sem truques, apenas natureza.
+            Aqui na Granja do Renato, tratamos nossas galinhas como família. Elas vivem soltas, comem bem e, em troca, nos dão os ovos mais saborosos da região. Sem truques, apenas natureza.
           </p>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mt-4">
