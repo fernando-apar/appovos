@@ -15,9 +15,15 @@ export const Footer: React.FC = () => {
 
         <div className="flex flex-col items-center md:items-start gap-4">
           <h4 className="font-bold text-lg mb-2 text-white">Contato</h4>
-          <div className="flex items-center gap-3 text-stone-300">
-            <Phone size={18} className="text-yellow-400" />
-            <span>(55) 99999-9999</span>
+          <div className="flex flex-col gap-2">
+            <div className="flex items-center gap-3 text-stone-300">
+              <Phone size={18} className="text-yellow-400" />
+              <span>(14) 98814-9190</span>
+            </div>
+            <div className="flex items-center gap-3 text-stone-300">
+              <Phone size={18} className="text-yellow-400" />
+              <span>(14) 99720-7946</span>
+            </div>
           </div>
           <div className="flex items-center gap-3 text-stone-300">
             <MapPin size={18} className="text-yellow-400" />

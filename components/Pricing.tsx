@@ -26,7 +26,7 @@ export const Pricing: React.FC = () => {
             R$ 25,00
           </div>
           <a 
-             href="https://wa.me/351928115513?text=gostaria de fazer o pedido da caixa com 30 ovos"
+             href="https://wa.me/351928115513?text=gostaria de solicitar uma cartela com 30 ovos"
              target="_blank"
              rel="noopener noreferrer"
              className="w-full py-4 px-6 bg-farm-orange hover:bg-orange-600 text-white font-bold text-xl rounded-xl transition-colors duration-300 shadow-lg flex items-center justify-center gap-3"
